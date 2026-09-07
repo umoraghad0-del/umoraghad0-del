@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Najma 👋
 
-<!--
-**umoraghad0-del/umoraghad0-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Blockchain Development student at Mediainstitutet in Sweden, exploring Web3, smart contracts, and modern web development.
 
-Here are some ideas to get you started:
+## 👩🏾‍💻 What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 Learning blockchain development and Web3
+- 📜 Building and understanding smart contracts
+- 💻 Developing with JavaScript, HTML, CSS and React
+- 🌐 Learning to work with APIs and real-world applications
+- 🛠️ Building projects to strengthen my problem-solving and development skills
+- 🌱 Always learning, building and improving
+
+## 🚀 Current focus
+
+JavaScript • React • APIs • Blockchain • Smart Contracts • Web3 • Git & GitHub
