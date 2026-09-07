@@ -14,3 +14,14 @@ I'm a Blockchain Development student at Mediainstitutet in Sweden, exploring Web
 ## 🚀 Current focus
 
 JavaScript • React • APIs • Blockchain • Smart Contracts • Web3 • Git & GitHub
+
+## 📂 Selected Projects
+
+### 🔎 Block Explorer
+A blockchain-focused project built to explore blockchain data and strengthen my understanding of Web3 development.
+
+### 🌍 Faras App
+A project focused on applying web development skills to a real-world idea.
+
+### 💎 Luxury Ledger API
+An API project where I'm developing my understanding of JavaScript, backend concepts and working with data.
