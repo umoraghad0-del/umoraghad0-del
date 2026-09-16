@@ -13,7 +13,7 @@ I'm a Blockchain Development student at Mediainstitutet in Sweden, exploring Web
 
 ## 🚀 Current focus
 
-JavaScript • React • APIs • Blockchain • Smart Contracts • Web3 • Git & GitHub
+JavaScript • React • APIs • TypScript • Blockchain • Smart Contracts • Web3 • Git & GitHub
 
 ## 📂 Selected Projects
 
